@@ -1,7 +1,7 @@
 # Ex-3-RECOGNITION-OF-A-VALID-ARITHMETIC-EXPRESSION-THAT-USES-OPERATOR-AND-USING-YACC
 # Date:24-10-2025
 # AIM
-To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /.
+To write a yacc program to recognize a valid arithmetic expression that uses operator +,- ,* and /. 
 # ALGORITHM
 1.	Start the program.
 2.	Write a program in the vi editor and save it with .l extension.
